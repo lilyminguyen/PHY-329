@@ -1,0 +1,2 @@
+conda environment: hw_venv, phy329
+to update packages: conda update --all
