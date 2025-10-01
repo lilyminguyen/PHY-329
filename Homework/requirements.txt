@@ -1,2 +1,4 @@
-conda environment: hw_venv, phy329
+conda environment: UT
+Command: Honda activate UT
+Kernel: Python (UT) 3.12.something
 to update packages: conda update --all
